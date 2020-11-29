@@ -24,5 +24,11 @@
 
  <img src="Medios\5.PNG"/>
 
+ ## Ejercicio de ejemplo
+
+<img src="Medios\6.PNG"/>
+<img src="Medios\7.PNG"/>
+
+
 
 
