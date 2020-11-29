@@ -29,6 +29,12 @@
 <img src="Medios\6.PNG"/>
 <img src="Medios\7.PNG"/>
 
+## Ejercicio 1
+
+        Ejercicio: Cree una lista de personas y recorra la lista usando un for, agregue 3 personas y muestre los resultados de los datos de cada persona:
+        var lista_personas = ArrayList<Persona>()
+
+<img src="Medios\8.PNG"/>
 
 
 
